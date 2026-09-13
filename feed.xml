@@ -34,3 +34,12 @@
 
     <item>
       <title>Folge 3 - Saughöhe, Kavitation und Druckverluste beim Löschen</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wfz4Glm4RZz8afGzXw7kHKOhzI_N9dBN" length="0" type="audio/mp4"/>
+      <guid>folge3</guid>
+      <pubDate>Sat, 03 Jan 2026 12:00:00 GMT</pubDate>
+      <description>Podcastfolge über Saughöhe, Kavitation und Druckverluste im Löschvorgang.</description>
+      <itunes:duration>00:06:00</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
