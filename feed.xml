@@ -1,45 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
-
-  <channel>
-    <title>Maschinistenlehrgang Erkrath - Podcast</title>
-    <link>https://torstenmuench1205-cell.github.io/maschinisten-podcast/</link>
-    <atom:link href="https://torstenmuench1205-cell.github.io/maschinisten-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Podcast-Folgen für den Maschinistenlehrgang der Feuerwehr Erkrath.</description>
-
-    <language>de-de</language>
-    <itunes:author>Feuerwehr Erkrath</itunes:author>
-    <itunes:summary>Podcast-Folgen für den Maschinistenlehrgang der Feuerwehr Erkrath.</itunes:summary>
-    <itunes:explicit>no</itunes:explicit>
-
-    <item>
-      <title>Folge 1 - WOLKEN-Regel und Absicherung der Einsatzstelle</title>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10OjuEqmUVkG9byR3vJ_rx-81FHvLvtGp" length="0" type="audio/mp4"/>
-      <guid>folge1</guid>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
-      <description>Podcastfolge zur WOLKEN-Regel und zur Absicherung der Einsatzstelle.</description>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-
-    <item>
-      <title>Folge 2 - Löschwasserversorgung und Technik der Feuerlöschkreiselpumpe</title>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11REDJRDMyrSS69xmeZrEw0NXP8qSECLC" length="0" type="audio/mp4"/>
-      <guid>folge2</guid>
-      <pubDate>Fri, 02 Jan 2026 12:00:00 GMT</pubDate>
-      <description>Podcastfolge zur Löschwasserversorgung und zur Technik der Feuerlöschkreiselpumpe.</description>
-      <itunes:duration>00:07:00</itunes:duration>
-    </item>
-
-    <item>
-      <title>Folge 3 - Saughöhe, Kavitation und Druckverluste beim Löschen</title>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wfz4Glm4RZz8afGzXw7kHKOhzI_N9dBN" length="0" type="audio/mp4"/>
-      <guid>folge3</guid>
-      <pubDate>Sat, 03 Jan 2026 12:00:00 GMT</pubDate>
-      <description>Podcastfolge über Saughöhe, Kavitation und Druckverluste im Löschvorgang.</description>
-      <itunes:duration>00:06:00</itunes:duration>
-    </item>
-
-  </channel>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Maschinistenlehrgang Erkrath - Podcast</title>
+<link>https://torstenmuench1205-cell.github.io/maschinisten-podcast/</link>
+<atom:link href="https://torstenmuench1205-cell.github.io/maschinisten-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Podcast-Folgen für den Maschinistenlehrgang der Feuerwehr Erkrath.</description>
+<language>de-de</language>
+<itunes:author>Feuerwehr Erkrath</itunes:author>
+<itunes:summary>Podcast-Folgen für den Maschinistenlehrgang der Feuerwehr Erkrath.</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<item>
+<title>Folge 1 - WOLKEN-Regel und Absicherung der Einsatzstelle</title>
+<enclosure url="https://drive.google.com/uc?export=download&id=10OjuEqmUVkG9byR3vJ_rx-81FHvLvtGp" length="0" type="audio/mp4"/>
+<guid>folge1</guid>
+<pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
+<description>Podcastfolge zur WOLKEN-Regel und zur Absicherung der Einsatzstelle.</description>
+<itunes:duration>00:05:00</itunes:duration>
+</item>
+<item>
+<title>Folge 2 - Löschwasserversorgung und Technik der Feuerlöschkreiselpumpe</title>
+<enclosure url="https://drive.google.com/uc?export=download&id=11REDJRDMyrSS69xmeZrEw0NXP8qSECLC" length="0" type="audio/mp4"/>
+<guid>folge2</guid>
+<pubDate>Fri, 02 Jan 2026 12:00:00 GMT</pubDate>
+<description>Podcastfolge zur Löschwasserversorgung und zur Technik der Feuerlöschkreiselpumpe.</description>
+<itunes:duration>00:07:00</itunes:duration>
+</item>
+<item>
+<title>Folge 3 - Saughöhe, Kavitation und Druckverluste beim Löschen</title>
+<enclosure url="https://drive.google.com/uc?export=download&id=1Wfz4Glm4RZz8afGzXw7kHKOhzI_N9dBN" length="0" type="audio/mp4"/>
+<guid>folge3</guid>
+<pubDate>Sat, 03 Jan 2026 12:00:00 GMT</pubDate>
+<description>Podcastfolge über Saughöhe, Kavitation und Druckverluste im Löschvorgang.</description>
+<itunes:duration>00:06:00</itunes:duration>
+</item>
+</channel>
 </rss>
