@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
   <channel>
     <title>Maschinistenlehrgang Erkrath – Podcast</title>
-    <link>https://drive.google.com/drive/folders/1_z9dlKcuJCWKRU9jI09nYIhZRhOh4Wfw?usp=sharing</link>
-    <description>Podcast-Folgen, Quizzes und Karteikarten für den Maschinistenlehrgang der Feuerwehr Erkrath.</description>
+    <link>https://torstenmuench1205-cell.github.io/maschinisten-podcast/</link>
+    <atom:link href="https://torstenmuench1205-cell.github.io/maschinisten-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Podcast-Folgen für den Maschinistenlehrgang der Feuerwehr Erkrath.</description>
+
+    <language>de-de</language>
+    <itunes:author>Feuerwehr Erkrath</itunes:author>
+    <itunes:summary>Podcast-Folgen für den Maschinistenlehrgang der Feuerwehr Erkrath.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
 
     <item>
       <title>Folge 1 – WOLKEN-Regel und Absicherung der Einsatzstelle</title>
@@ -11,6 +20,7 @@
       <guid>folge1</guid>
       <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
       <description>Podcastfolge zur WOLKEN-Regel und zur Absicherung der Einsatzstelle.</description>
+      <itunes:duration>00:05:00</itunes:duration>
     </item>
 
     <item>
@@ -19,6 +29,7 @@
       <guid>folge2</guid>
       <pubDate>Fri, 02 Jan 2026 12:00:00 GMT</pubDate>
       <description>Podcastfolge zur Löschwasserversorgung und zur Technik der Feuerlöschkreiselpumpe.</description>
+      <itunes:duration>00:07:00</itunes:duration>
     </item>
 
     <item>
@@ -27,6 +38,7 @@
       <guid>folge3</guid>
       <pubDate>Sat, 03 Jan 2026 12:00:00 GMT</pubDate>
       <description>Podcastfolge über Saughöhe, Kavitation und Druckverluste im Löschvorgang.</description>
+      <itunes:duration>00:06:00</itunes:duration>
     </item>
 
   </channel>
