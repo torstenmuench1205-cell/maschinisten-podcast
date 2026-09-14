@@ -7,7 +7,7 @@
     <title>Maschinistenlehrgang Erkrath - Podcast</title>
     <link>https://torstenmuench1205-cell.github.io/maschinisten-podcast/</link>
     <atom:link href="https://torstenmuench1205-cell.github.io/maschinisten-podcast/feed.rss" rel="self" type="application/rss+xml"/>
-    <description>Podcast-Folgen für den Maschinistenlehrgang der Feuerwehr Erkrath.</description>
+    <description><![CDATA[Podcast-Folgen für den Maschinistenlehrgang der Feuerwehr Erkrath.]]></description>
 
     <language>de-de</language>
 
@@ -33,10 +33,10 @@
   <itunes:summary>Einführung in Aufgaben des Maschinisten, WOLKEN-Regel, UVV und taktische Absicherung.</itunes:summary>
 
   <enclosure url="https://drive.google.com/uc?export=download&amp;id=10OjuEqmUVkG9byR3vJ_rx-81FHvLvtGp" length="0" type="audio/mp4"/>
-  <guid>folge1</guid>
+  <guid isPermaLink="false">folge1</guid>
   <pubDate>Sun, 13 Sep 2026 08:00:00 GMT</pubDate>
 
-  <description>
+  <description><![CDATA[
 Aufgaben des Maschinisten, WOLKEN-Regel &amp; Absicherung
 
 Inhalt: Einführung in den Lehrgang sowie Verantwortung und Pflichten des Maschinisten vor, während und nach der Einsatzfahrt. Behandelt werden die Dienstübernahme nach der W-O-L-K-E-N-Regel (Wasser, Öl, Luft, Kraftstoff, Elektrik, Notfallausrüstung), die Grundlagen der Unfallverhütungsvorschriften (UVV / GUV-V A1), Absicherungsabstände im Straßenverkehr sowie Regeln zur taktischen Fahrzeugaufstellung.
@@ -54,7 +54,7 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
 
 Lernkarten Folge 1:
 https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifact/055ff4ff-f340-41c5-aafb-7bc44fc568f9
-  </description>
+  ]]></description>
 
   <itunes:duration>00:27:23</itunes:duration>
 </item>
@@ -69,10 +69,10 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
   <itunes:summary>Normen, Betriebsarten, Entlüftungseinrichtungen und Prüfverfahren der Feuerlöschkreiselpumpen.</itunes:summary>
 
   <enclosure url="https://drive.google.com/uc?export=download&amp;id=11REDJRDMyrSS69xmeZrEw0NXP8qSECLC" length="0" type="audio/mp4"/>
-  <guid>folge2</guid>
+  <guid isPermaLink="false">folge2</guid>
   <pubDate>Sun, 13 Sep 2026 09:00:00 GMT</pubDate>
 
-  <description>
+  <description><![CDATA[
 Feuerlöschkreiselpumpen, Entlüftung &amp; Prüfverfahren
 
 Inhalt: Norm-Bezeichnungen von Feuerlöschkreiselpumpen (FPN/PFPN, Garantiepunkte), Gehäuseformen, Laufwerk und Armaturen. Erklärungen zu den Betriebsarten (Saug-, Zuführ- und Tankbetrieb), den Entlüftungseinrichtungen (Kolben-, Membranpumpe, Abgasstrahler) sowie den genauen Prüfschritten der Schließdruck- und Trockensaugprüfung (-0,8 bar) inklusive Fehlersuche bei Undichtigkeiten.
@@ -91,7 +91,7 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
 
 Lernkarten Folge 2:
 https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifact/f1860ba3-5dce-427f-923a-2e8412681d18
-  </description>
+  ]]></description>
 
   <itunes:duration>00:31:11</itunes:duration>
 </item>
@@ -106,10 +106,10 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
   <itunes:summary>Löschwasserversorgung, Saughöhen, Kavitation und Druckverlustberechnungen.</itunes:summary>
 
   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wfz4Glm4RZz8afGzXw7kHKOhzI_N9dBN" length="0" type="audio/mp4"/>
-  <guid>folge3</guid>
+  <guid isPermaLink="false">folge3</guid>
   <pubDate>Sun, 13 Sep 2026 10:00:00 GMT</pubDate>
 
-  <description>
+  <description><![CDATA[
 Wasserversorgung &amp; Löschwasserförderung
 
 Inhalt: Öffentliche und unabhängige Löschwasserversorgung (DVGW W 405, Hydranten, Brunnen, Teiche), geodätische vs. praktische Saughöhe (max. 7,5 m) sowie Entstehung und Vermeidung von Kavitation (Hohlsog). Vertiefung von Druckverlustberechnungen durch Höhenunterschiede (10 m = 1 bar), Schlauchreibung in B-Schläuchen (z. B. 1,1 bar/100 m bei 800 l/min), Armaturverluste (Verteiler 1 bar, Zumischer 2 bar) sowie Berechnungen von Pumpenabständen und Schlauchfüllmengen (88 Liter pro B-Schlauch).
@@ -127,7 +127,7 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
 
 Lernkarten Folge 3:
 https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifact/3616edc4-e951-42bb-b058-ab73a57db639
-  </description>
+  ]]></description>
 
   <itunes:duration>00:22:17</itunes:duration>
 </item>
@@ -142,10 +142,10 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
   <itunes:summary>Motorenarten, Stromerzeuger, Lüfter, Sägen, Trennschleifer und Hydraulikaggregate.</itunes:summary>
 
   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JQn6rjzYdnW4qpN_VeySb3KwwIikccPN" length="0" type="audio/mp4"/>
-  <guid>folge4</guid>
+  <guid isPermaLink="false">folge4</guid>
   <pubDate>Mon, 14 Sep 2026 08:00:00 GMT</pubDate>
 
-  <description>
+  <description><![CDATA[
 Motorenkunde &amp; kraftbetriebene Geräte
 
 Inhalt: Funktionsweise und Arbeitsverfahren von 2-Takt-, 4-Takt- und Dieselmotoren (Gemische 1:25–1:50, Kalt-/Warmstart). Grundlagen zu Stromerzeugern (kVA Scheinleistung vs. Wirk- und Blindleistung mit der „Bier-Analogie“, Schutztrennung, Schutzleiterprüfung, max. 100 m Leitungslänge), PRCD-S-Schutz bei Tauchpumpen, Hochleistungslüfter, Motorkettensägen, Trennschleifer und Hydraulikaggregate (Sicherheitsvorschriften wie Gesichtsschutz).
@@ -163,7 +163,7 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
 
 Lernkarten Folge 4:
 https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifact/31cbfef1-2223-4828-a476-e1a5c8c3c461
-  </description>
+  ]]></description>
 
   <itunes:duration>00:23:58</itunes:duration>
 </item>
@@ -178,10 +178,10 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
   <itunes:summary>Rechtliche Grundlagen zu Sonderrechten, Wegerechten, Verbänden und Umweltschutz.</itunes:summary>
 
   <enclosure url="https://drive.google.com/uc?export=download&amp;id=19Sn4Rx3me2CCwQ4_JgIPFvjVtlmPd1WH" length="0" type="audio/mp4"/>
-  <guid>folge5</guid>
+  <guid isPermaLink="false">folge5</guid>
   <pubDate>Mon, 14 Sep 2026 09:00:00 GMT</pubDate>
 
-  <description>
+  <description><![CDATA[
 Straßenverkehrsrecht, Sonderrechte &amp; Verbände
 
 Inhalt: Rechtliche Voraussetzungen für Sonderrechte nach § 35 StVO (4 Voraussetzungen) und Wegerechte nach § 38 StVO („freie Bahn schaffen“). Grundlagen der Sorgfaltspflicht nach § 35 Abs. 8 StVO, Rechtsprechung bei Rotlichtüberquerungen, BOS-Funken am Steuer nach § 35 Abs. 9 StVO, Regelungen für geschlossene Verbände/Kolonnen nach § 27 StVO (Beflaggungsordnung blau/grün/gelb/rot) sowie Umweltschutz und Gewässerverunreinigung (§ 324 StGB).
@@ -199,7 +199,7 @@ https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifa
 
 Lernkarten Folge 5:
 https://notebook.google.com/notebook/c061b95f-4166-4585-b00a-0652b6e42759/artifact/7aefef26-97d2-46ae-81a9-cb85233647b1
-  </description>
+  ]]></description>
 
   <itunes:duration>00:17:58</itunes:duration>
 </item>
